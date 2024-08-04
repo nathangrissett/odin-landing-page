@@ -1,0 +1,1 @@
+This is a project from The Odin Project that uses HTML and CSS to create a landing page. In this project, I am given an image and I create a landing page using HTML and CSS that resembles the image as closely as possible. This project especially demonstrates my ability to use flexbox.
